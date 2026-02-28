@@ -75,5 +75,3 @@
 * **Language**: Python
 * **Libraries**: NumPy, Pandas, Scikit-learn, Matplotlib
 * **Tools**: Git/GitHub, Jupyter Notebook
-
-## 전준황 커밋 테스트
