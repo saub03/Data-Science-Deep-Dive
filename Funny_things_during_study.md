@@ -4,8 +4,12 @@
 뻘소리.
 답장은
 ㄴ 이렇게 하세요
+
 ---
+
 260303: Jun
 이거 노래 듣기 좋다 들어라
 https://www.youtube.com/watch?v=NdD7B25C_OY
 내일 수강변경기간 응원 좀
+
+260304: Jun
