@@ -4,11 +4,14 @@
 책 깃허브 주소(데이터셋, 예제코드): https://github.com/wesm/pydata-book
 
 
-- [ ] 260228 0주차 과제: 1주차 회의 전 까지 "파이썬 라이브러리를 활용한 데이터 분석" 1장 읽고 파이썬 개발 환경 세팅하기
-- [ ] 260301 Hee: 파이썬 기초 문법 자료 정리본 Hee 파일에 업로드 함
+- [X] 260228 0주차 과제: 1주차 회의 전 까지 "파이썬 라이브러리를 활용한 데이터 분석" 1장 읽고 파이썬 개발 환경 세팅하기
+- [X] 260301 Hee: 파이썬 기초 문법 자료 정리본 Hee 파일에 업로드 함
 
-- [ ] 260301 1주차 과제: 〈파이썬 라이브러리를 활용한 데이터 분석〉 책 4, 5장 numpy, pandas 실습 주피터노트북 만들기
+- [X] 260301 1주차 과제: 〈파이썬 라이브러리를 활용한 데이터 분석〉 책 4, 5장 numpy, pandas 실습 주피터노트북 만들기
     과제 보충 학습 자료: https://youtu.be/2uvysYbKdjM?si=PyqOZdye2dDqlOkk - Pandas 튜토리얼  <- 개인적으로 추천하는 영상임
                         https://youtu.be/VXU4LSAQDSc?si=OfoxUIPGvNbJUdex - Numpy 튜토리얼    <- 빠르게 보기 괜찮음
     과제 심화 학습 자료: https://youtu.be/i7v2m-ebXB4?si=Y1ZbNmqdqv72UgJL - Solving 100 Python Pandas Problems! (from easy to very difficult) 
                          https://youtu.be/PM504XhEVCU?si=eITsqYdmpYVRyrjJ - Solving 100 Python NumPy Problems! (From easy to difficult)
+
+- [ ] 260309 2주차 과제: 펭귄 문제 풀기, 책 6~8장 읽어보기.
+                         시간 남으면 9장 실습 해볼것
