@@ -14,7 +14,10 @@ https://www.youtube.com/watch?v=NdD7B25C_OY
 ㄴ 260306: Hee
    코딩력 올라가는 노래네
 
-260304: Jun
-
 260306: Hee
 데이터 EDA 자동으로 해주는 모듈 만드는 중임
+
+260313: Jun
+금일의 띵곡 추천 ㅇㅇ
+https://youtu.be/UsjsYMo3O1Q?si=DOOp20A1FiLWdXM_
+파이썬 코드 꼬라지 진짜 알아보기 너무 힘듦
